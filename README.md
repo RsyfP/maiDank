@@ -32,5 +32,5 @@
  | subage | sa | Check your Subage | user 
  | set |  | at the moment I only have the location set | user 
  | suggest |  | Suggest something, that can help the bot :) | user 
- | whispers |  | gives you a link to you whispers in fullscreen | user 
+ | whispers | w | gives you a link to you whispers in fullscreen | user 
 
