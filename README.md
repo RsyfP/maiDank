@@ -21,7 +21,7 @@
  | google |  | google search | user 
  | join |  | Join your Channel | owner  
  | leave |  part | Leave your Channel | user 
- | location |   | For now I only have the set location | Use the command ~set location for example: ~set location [country] [city] | user 
+ | location |   | For now I only have the set location, Use the command ~set location for example: ~set location [country] [city] | user 
  | math |  | Does math 4Head | user  
  | ping | pong | Just a Ping command | user 
  | pingme |  | Pings you | user 
