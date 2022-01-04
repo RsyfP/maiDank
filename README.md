@@ -19,6 +19,7 @@
  | commands | cmds | Send the link to the list of commands  | user 
  | followage | fa | Check your Followage | user 
  | google |  | google search | user 
+ | uid | userid | check your userid and those of other users | user 
  | join |  | Join your Channel | owner  
  | leave |  part | Leave your Channel | user 
  | location |   | For now I only have the set location, Use the command ~set location for example: ~set location [country] [city] | user 
