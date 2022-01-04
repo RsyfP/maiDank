@@ -25,7 +25,7 @@
  | location |   | For now I only have the set location, Use the command ~set location for example: ~set location [country] [city] | user 
  | math |  | Does math 4Head | user  
  | ping | pong | Just a Ping command | user 
- | pingme |  | Pings you | user 
+ | pingme | me | Pings you | user 
  | randomcolor | rc | Gives you a random Hex-Code | user 
  | echo | say | repeat your message | owner
  | spam |  | spams something into the chat (max. 50) | Broadcaster/Mods
