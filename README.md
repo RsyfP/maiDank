@@ -18,7 +18,7 @@
  | color |  | Check your color and and another user is color | user 
  | commands | cmds | Send the link to the list of commands  | user 
  | followage | fa | Check your Followage | user 
- | google |  | google search | user 
+ | google | gg | google search | user 
  | uid | userid | check your userid and those of other users | user 
  | join |  | Join your Channel | owner  
  | leave |  part | Leave your Channel | user 
