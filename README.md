@@ -28,7 +28,7 @@
  | pingme |  | Pings you | user 
  | randomcolor | rc | Gives you a random Hex-Code | user 
  | echo | say | repeat your message | owner
- | spam |  | spams something into the chat (max. 50) | Broadcaster and Mods  
+ | spam |  | spams something into the chat (max. 50) | Broadcaster/Mods
  | subage | sa | Check your Subage | user 
  | set |  | at the moment I only have the location set | user 
  | suggest |  | Suggest something, that can help the bot :) | user 
