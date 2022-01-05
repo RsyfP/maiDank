@@ -1,6 +1,6 @@
 # maiDank
 <p align="center">
-  <img src="https://cdn.7tv.app/emote/60ae7d777eace53a22f8947b/3x" />
+  <img src="https://cdn.7tv.app/emote/60ae7d777eace53a22f8947b/10x" />
 </p>
 
 
