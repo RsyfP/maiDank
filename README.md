@@ -25,8 +25,7 @@
  | google | gg | google search | user 
  | uid | userid | check your userid and those of other users | user 
  | join |  | Join your Channel | owner  
- | leave |  part | Leave your Channel | user 
- | location |   | For now I only have the set location, Use the command ~set location for example: ~set location [country] [city] | user 
+ | leave |  part | Leave your Channel | user
  | math |  | Does math 4Head | user  
  | ping | pong | Just a Ping command | user 
  | pingme | me | Pings you | user 
@@ -34,7 +33,6 @@
  | echo | say | repeat your message | owner
  | spam |  | this command has a maximum of 70 | Broadcaster/Mods
  | subage | sa | Check your Subage | user 
- | set |  | at the moment I only have the location set | user 
  | suggest |  | this is a suggestion command, can you suggest what commands I could add | user 
  | time |  | the time command works if you have a location set and if you don't have it, use for example: s~time country city | user 
  | title |  | check the title of the channel or of other channels | user 
