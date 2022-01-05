@@ -10,6 +10,7 @@
 
         
 ## Commands
+* Prefix: **s~**
         
 | Command  | Alias  | Description  | Permission |
 |:-----------:|:-----------:|:------------:|:------:|
